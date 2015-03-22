@@ -13,4 +13,4 @@ txt = fs.readFileSync(location).toString();
 m = recount(txt,re);
 
 if(m.length == 1) console.log('1 match');
-else console.log(m.length + ' matches');
+else console.log(m + ' matches');

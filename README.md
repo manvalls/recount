@@ -3,6 +3,6 @@
 ## Sample usage
 
 ```
-recount s*me\sa[^w]es(o|me)\WRegExp bar.txt
+recount 's*me\sa[^w]es(o|me)\WRegExp' bar.txt
 ```
 
