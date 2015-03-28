@@ -1,6 +1,6 @@
 {
   "name": "recount",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Count the number of times a RegExp happens on a file",
   "main": "main.js",
   "bin": "./bin/runner.sh",
